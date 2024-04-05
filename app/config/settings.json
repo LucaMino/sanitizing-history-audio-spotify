@@ -4,6 +4,6 @@
     ],
 
     "blacklist": [
-        "artist_name",
+        "artist_name"
     ]
 }
