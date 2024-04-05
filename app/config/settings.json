@@ -1,0 +1,18 @@
+{
+    "files_path": [
+        "Downloads/Streaming_History_Audio_2024_1.json"
+    ],
+
+    "blacklist": [
+        "Sfera Ebbasta",
+        "Boro",
+        "Guè",
+        "Salmo",
+        "Lazza",
+        "Club Dogo",
+        "AVA",
+        "Medy",
+        "Vegas Jones",
+        "Rasty Kilo"
+    ]
+}
