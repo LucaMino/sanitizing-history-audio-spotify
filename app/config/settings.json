@@ -4,15 +4,6 @@
     ],
 
     "blacklist": [
-        "Sfera Ebbasta",
-        "Boro",
-        "Guè",
-        "Salmo",
-        "Lazza",
-        "Club Dogo",
-        "AVA",
-        "Medy",
-        "Vegas Jones",
-        "Rasty Kilo"
+        "artist_name",
     ]
 }
